@@ -1,7 +1,13 @@
 # socket
 
     /*
+    
     Example of how to use this library
+    
+    **Required jstructure library to work -- can find it in my github --
+    
+    Some socket functions have not been tested 
+    
     */
     
     public class Test {
