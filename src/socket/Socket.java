@@ -3,8 +3,8 @@ package socket;
 
 public abstract class Socket {
 
-
-	static { System.load("/home/kali/IntelliJProjects/socket/jni/socket.so"); }
+	// Load socket.so (use path where socket.so resides)
+	static { System.load("socket/jni/socket.so"); }
 
 
     private int socket;
